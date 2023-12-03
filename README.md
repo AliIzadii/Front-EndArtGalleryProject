@@ -1,5 +1,5 @@
 # Front-EndArtGalleryProject
-Front-End design of an art gallery site with html, css and js
+Front-End design of an art gallery site with html, css and js as university final project
 
 This project have 12 pages about art gallery. It is contains 4 art's branches that include cinema, music, painting and pottery
 
